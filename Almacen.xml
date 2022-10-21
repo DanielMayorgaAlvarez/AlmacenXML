@@ -1,0 +1,81 @@
+<Almacen>
+    <Distribuidores >
+        <Distribuidor pais = "España">
+                <Nombre compuesto = "No">Marta</Nombre>
+                <Apellidos>Garcia Lopez</Apellidos>
+                <Edad>35</Edad>
+                <DNI>25056783R</DNI>
+                <Experiencia>12 años</Experiencia>
+                <Empresa>Paquetes S.L</Empresa>
+        </Distribuidor>
+        <Distribuidor pais = "Italia">
+                <Nombre compuesto = "Si">Carbanccelo Novais</Nombre>
+                <Apellidos>De la Rosa Santa</Apellidos>
+                <Edad>51</Edad>
+                <DNI>12469756J</DNI>
+                <Experiencia>30 años</Experiencia>
+                <Empresa>Farfalla S.A</Empresa>
+        </Distribuidor>
+        <Distribuidor pais = "Estados Unidos">
+                <Nombre compuesto = "Si">Pedro Rodrigo</Nombre>
+                <Apellidos>Del Toboso Martines</Apellidos>
+                <Edad>36</Edad>
+                <DNI>87153480C</DNI>
+                <Experiencia>10 años</Experiencia>
+                <Empresa>BuenoBonito S.L</Empresa>
+        </Distribuidor>
+        <Distribuidor pais = "Portugal">
+                <Nombre compuesto = "No">Silvia</Nombre>
+                <Apellidos>Rodriguez Toledo</Apellidos>
+                <Edad>28</Edad>
+                <DNI>27074737A</DNI>
+                <Experiencia>5 años</Experiencia>
+                <Empresa>Velocidad A Tope</Empresa>
+        </Distribuidor>
+        <Distribuidor pais = "Estados Unidos">
+                <Nombre compuesto = "Si">Comache Banugo</Nombre>
+                <Apellidos>Garcia Iluminado</Apellidos>
+                <Edad>46</Edad>
+                <DNI>06932643F</DNI>
+                <Experiencia>25 años</Experiencia>
+                <Empresa>Get in the Road</Empresa>
+        </Distribuidor>
+    </Distribuidores>
+    <Productos>
+        <Producto tipo = "Almacenable">
+                <Nombre>Palomitera</Nombre>
+                <Origen>Dinamarca</Origen>
+                <Año_Fabricacion>2016</Año_Fabricacion>
+                <Estado segunda_mano = "No">Nuevo</Estado>
+                <Unidades>25</Unidades>
+        </Producto>
+        <Producto tipo = "Consumible">
+                <Nombre>Lata Coca Cola</Nombre>
+                <Origen>Polonia</Origen>
+                <Año_Fabricacion>2022</Año_Fabricacion>
+                <Estado segunda_mano = "No">Nuevo</Estado>
+                <Unidades>800</Unidades> 
+        </Producto>
+        <Producto tipo = "Almacenable">
+                <Nombre>Ropa variada</Nombre>
+                <Origen>Francia</Origen>
+                <Año_Fabricacion>2003</Año_Fabricacion>
+                <Estado segunda_mano = "Si">Bueno</Estado>
+                <Unidades>20</Unidades>
+        </Producto>
+        <Producto tipo = "Consumible">
+                <Nombre>Patatas Fritas</Nombre>
+                <Origen>Estados Unidos</Origen>
+                <Año_Fabricacion>2022</Año_Fabricacion>
+                <Estado segunda_mano = "No">Nuevo</Estado>
+                <Unidades>700</Unidades>
+        </Producto>
+        <Producto tipo = "Consumible">
+                <Nombre>Mantecados</Nombre>
+                <Origen>España</Origen>
+                <Año_Fabricacion>2022</Año_Fabricacion>
+                <Estado segunda_mano = "No">Nuevo</Estado>
+                <Unidades>3.000</Unidades>
+        </Producto>
+    </Productos>
+</Almacen>
